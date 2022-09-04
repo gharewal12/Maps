@@ -1,0 +1,27 @@
+#viewDiv {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 1000px;
+}
+
+a {
+    color: #ff642e;
+}
+
+#infoDiv {
+    padding: 10px;
+}
+
+.esri-popup__footer .esri-popup__button {
+    font-size: 16px;
+    font-weight: 460;
+}
+
+.esri-legend__layer-row {
+    text-align: center;
+}
+
+h4 {
+    margin: 0px;
+}
